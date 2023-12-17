@@ -12,10 +12,10 @@ Display Age: The calculated age is displayed in the result section below the inp
 1. Clone the Repository:
 git clone https://github.com/Manish6387/CodeAlpha_AGE_CALCULATOR.git
 
-3. Open ageCalculator.html:
+2. Open ageCalculator.html:
 Open the ageCalculator.html file in a web browser or a code editor like Visual Studio Code.
 
-4. Enter Date of Birth:
+3. Enter Date of Birth:
 Click on the date input field and choose your date of birth.
 
 4.Calculate Age:
