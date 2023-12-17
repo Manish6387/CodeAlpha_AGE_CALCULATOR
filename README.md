@@ -22,9 +22,7 @@ styles.css: Provides styling for the calculator interface.
 ageCalculator.js: Implements the JavaScript logic for age calculation.
 
 # Technologies Used
- HTML,
- CSS,
- JavaScript
+ HTML,CSS,JavaScript
  
 # Contributions
 Contributions are welcome! If you have suggestions for improvements or additional features, feel free to submit a pull request.
