@@ -18,7 +18,7 @@ Open the ageCalculator.html file in a web browser or a code editor like Visual S
 3. Enter Date of Birth:
 Click on the date input field and choose your date of birth.
 
-4.Calculate Age:
+4. Calculate Age:
 Click the "Calculate Age" button to see your age displayed below.
 
 # File Structure
