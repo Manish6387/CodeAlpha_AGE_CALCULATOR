@@ -18,7 +18,9 @@ Click the "Calculate Age" button to see your age displayed below.
 
 # File Structure
 index.html: Contains the HTML structure for the Age Calculator.
+
 styles.css: Provides styling for the calculator interface.
+
 ageCalculator.js: Implements the JavaScript logic for age calculation.
 
 # Technologies Used
