@@ -8,7 +8,7 @@ Display Age: The calculated age is displayed in the result section below the inp
 
 # How to Use
 1. Clone the Repository:
-git clone https://github.com/Manish6387/CodeAlpha_AGE_CALCULATOR.gi
+git clone https://github.com/Manish6387/CodeAlpha_AGE_CALCULATOR.git
 2. Open index.html:
 Open the index.html file in a web browser or a code editor like Visual Studio Code.
 3. Enter Date of Birth:
